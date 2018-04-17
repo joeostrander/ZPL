@@ -1,0 +1,13 @@
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\ZPL\ZPL\bin\Release\ZPL.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\ZPL\ZPL\bin\Release\ZPL.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\ZPL\ZPL\bin\Release\ZPL.xml
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\ZPL\ZPL\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\ZPL\ZPL\obj\Release\ZPL.Form1.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\ZPL\ZPL\obj\Release\ZPL.Resources.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\ZPL\ZPL\obj\Release\ZPL.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\ZPL\ZPL\obj\Release\ZPL.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\ZPL\ZPL\obj\Release\ZPL.xml
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\ZPL\ZPL\obj\Release\ZPL.pdb
+C:\Users\qojmo2\Google Drive\DEV\VisualStudio\ZPL\ZPL\obj\Release\ZPL.exe
+C:\Users\qojmo2\Google Drive\DEV\VisualStudio\ZPL\ZPL\obj\Release\ZPL.xml
+C:\Users\qojmo2\Google Drive\DEV\VisualStudio\ZPL\ZPL\obj\Release\ZPL.pdb
