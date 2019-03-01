@@ -1,0 +1,9 @@
+C:\Users\qojmo2\Google Drive\DEV\VisualStudio\ZPL\ZPL2\bin\Debug\ZPL2.exe.config
+C:\Users\qojmo2\Google Drive\DEV\VisualStudio\ZPL\ZPL2\bin\Debug\ZPL2.exe
+C:\Users\qojmo2\Google Drive\DEV\VisualStudio\ZPL\ZPL2\bin\Debug\ZPL2.pdb
+C:\Users\qojmo2\Google Drive\DEV\VisualStudio\ZPL\ZPL2\obj\Debug\ZPL2.csprojResolveAssemblyReference.cache
+C:\Users\qojmo2\Google Drive\DEV\VisualStudio\ZPL\ZPL2\obj\Debug\ZPL2.Form1.resources
+C:\Users\qojmo2\Google Drive\DEV\VisualStudio\ZPL\ZPL2\obj\Debug\ZPL2.Properties.Resources.resources
+C:\Users\qojmo2\Google Drive\DEV\VisualStudio\ZPL\ZPL2\obj\Debug\ZPL2.csproj.GenerateResource.Cache
+C:\Users\qojmo2\Google Drive\DEV\VisualStudio\ZPL\ZPL2\obj\Debug\ZPL2.exe
+C:\Users\qojmo2\Google Drive\DEV\VisualStudio\ZPL\ZPL2\obj\Debug\ZPL2.pdb
